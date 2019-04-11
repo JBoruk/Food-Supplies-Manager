@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodSuppliesManager</string>
+    <string name="recipies_button_text">Przepisy</string>
+    <string name="current_resources_button">Spiżarnia</string>
+    <string name="add_recipe_button">Dodaj przepis</string>
+    <string name="remove_some_product_button">Usuń produkt</string>
+    <string name="shopping_list_button">Lista zakupów</string>
+    <string name="menu_button">Jadłospis</string>
+</resources>
